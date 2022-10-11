@@ -1,2 +1,4 @@
 github.com/crit/errors v1.0.0 h1:2UVmM6FAXhPUoP+KffI7dB9ohcX4o5V20CPE8TvdzKU=
 github.com/crit/errors v1.0.0/go.mod h1:TeDW3QNpJRvumdiHAN5AUhNkxLrqiplkvl7tZgCO9iA=
+github.com/go-sql-driver/mysql v1.6.0 h1:BCTh4TKNUYmOmMUcQ3IipzF5prigylS7XXjEkfCHuOE=
+github.com/go-sql-driver/mysql v1.6.0/go.mod h1:DCzpHaOWr8IXmIStZouvnhqoel9Qv2LBy8hT2VhHyBg=
